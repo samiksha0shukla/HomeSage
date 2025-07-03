@@ -39,30 +39,6 @@
 
 ---
 
-## 📂 Folder Structure
-
-```
-HomeSage/
-│
-├── streamlit_app/
-│   ├── price_predictor.py
-│   ├── analytics_dashboard.py
-│   └── recommend_properties.py
-│
-├── datasets/
-│   ├── data_viz1.csv
-│   ├── location_distance.pkl
-│   └── feature_text.pkl
-│
-├── models/
-│   ├── pipeline.pkl
-│   └── cosine_sim_matrices.pkl
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Installation & Setup
 
 1. **Clone the Repository**
