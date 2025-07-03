@@ -81,7 +81,7 @@ HomeSage/
 3. **Run the Streamlit App**
 
    ```bash
-   streamlit run streamlit_app/price_predictor.py
+   streamlit run pages/price_predictor.py
    ```
 
 ---
