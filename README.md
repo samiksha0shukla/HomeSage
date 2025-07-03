@@ -68,7 +68,7 @@ HomeSage/
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourusername/HomeSage.git](https://github.com/samiksha0shukla/HomeSage.git)
+   git clone https://github.com/samiksha0shukla/HomeSage.git
    cd HomeSage
    ```
 
